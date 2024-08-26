@@ -1,3 +1,3 @@
 # local-pantry
 <br>
-author-Nusrat Jahan Choity
+author-Nusrat Jahan (Choity)
